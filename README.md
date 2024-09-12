@@ -1,2 +1,2 @@
-# parser_semgrep_json_to_xlsx
+# Parser Semgrep JSON to XLSX
 Parse para converter arquivos JSON do Semgrep em arquivos Excel
